@@ -2,42 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://intel-csu.github.io/index.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/blog/blog.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://intel-csu.github.io/blog/files/Assistant_Professor_Electronic_Engineering.html</loc>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/blog/files/WSU_cleanroom_visit_Sep29_2022.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/blog/files/WYSO_Sep26_2022.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/blog/files/Intel_Kickoff_event_Sep23_2022.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/blog/files/Intel_visit_Sep22_2022.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/blog/files/CSU_PR_Sep9_2022.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/blog/files/Intel_visit_Sep8_2022.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/blog/files/archive-september-2022.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://intel-csu.github.io/blog/files/archive-october-2022.html</loc>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://intel-csu.github.io/links/links.html</loc>
-		<lastmod>2022-10-05</lastmod>
+		<lastmod>2022-10-27</lastmod>
 	</url>
 </urlset>
